@@ -10,7 +10,7 @@ The dataset used in the paper is available [here](https://drive.google.com/file/
 
 'show_title', 'show_description', 'year', 'period', 'script', 'networks', 'production_companies', 'production_countries', 'genres', 'country', 'language'
 
-The filtered dataset containing the [topic modeling](/topic_model.py) (<pre> ```/topic_model.py``` </pre>) results ('topic' field) is available [here](https://drive.google.com/file/d/17rQSS01VLlYUuP3VfmfBMw5_4CZLGvnM/view?usp=drive_link). This dataset is the result of filtering the previous dataset with the [scoping keyword string](/keyword_string.py) and piloting some outcomes. After unzipping the file, you will find a CSV file with the following fields:
+The filtered dataset containing the [`/topic_model.py`](/topic_model.py) results ('topic' field) is available [here](https://drive.google.com/file/d/17rQSS01VLlYUuP3VfmfBMw5_4CZLGvnM/view?usp=drive_link). This dataset is the result of filtering the previous dataset with the [scoping keyword string](/keyword_string.py) and piloting some outcomes. After unzipping the file, you will find a CSV file with the following fields:
 
 'show_title', 'show_description', 'year', 'period', 'script', 'networks', 'production_companies', 'production_countries', 'genres', 'country', 'language', 'keywords', 'text_window', 'topic'
 

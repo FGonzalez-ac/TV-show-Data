@@ -8,4 +8,4 @@ The dataset used in the paper is available [here](https://drive.google.com/file/
 
 'show_title', 'show_description', 'year', 'period', 'script', 'networks', 'production_companies', 'production_countries', 'genres', 'country', 'language'
 
-The filtered dataset containing the topic modeling results ('topic' field) is available [here](). This dataset is the result of filtering the previous dataset with the [scoping keyword string](/keyword string.py).
+The filtered dataset containing the topic modeling results ('topic' field) is available [here](). This dataset is the result of filtering the previous dataset with the [scoping keyword string](/keyword_string.py).

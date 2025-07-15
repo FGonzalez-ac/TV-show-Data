@@ -4,7 +4,6 @@ This repository makes available the training data and main code described in the
 
 ### Data
 
-The dataset used in the paper is available here. After unzipping the file, you will find a ZIP file containing a CSV file with the following fields:
+The dataset used in the paper is available here. After unzipping the file, you will find a CSV file with the following fields:
 
 'show_title', 'show_description', 'year', 'period', 'script', 'networks', 'production_companies', 'production_countries', 'genres', 'country', 'language'
-

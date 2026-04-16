@@ -1,4 +1,4 @@
-This repository makes available the data and main code described in the following [paper]():
+This repository makes available the data and main code described in the following paper:
 
 "Climate and Environmental Coverage in Popular Entertainment Television: A Computer-Assisted Text Analysis"
 
